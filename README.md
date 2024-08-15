@@ -2,4 +2,6 @@
 - 🌱 Estudando: Programação Orientada a Objeto - JAVA 
 - 👯 Iniciando o projeto CAPD
 
-https://camo.githubusercontent.com/142f6963f7bee73de6420bab9547b5c505b7076f50e8f2092c22e1bdd66d1709/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303030304344266865696768743d3132302673656374696f6e3d686561646572
+<div>
+  <img href="https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs">
+</div>
