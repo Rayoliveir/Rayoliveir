@@ -3,5 +3,5 @@
 - 👯 Iniciando o projeto CAPD
 
 <div>
-  <img href="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)">
+  <img href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#responsive-card-themedark">
 </div>
