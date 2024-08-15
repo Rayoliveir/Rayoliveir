@@ -12,8 +12,8 @@
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/graphic.gif?raw=true"/>GitHub Stats:
 
 <div>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rayoliveir&show_icons=true&theme=radical">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayoliveir&hide_progress=true&theme=radical">
+        <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rayoliveir&show_icons=true&theme=radical">
+        <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayoliveir&hide_progress=true&theme=radical">
 </div>
 
 
