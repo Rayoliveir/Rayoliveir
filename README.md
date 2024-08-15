@@ -2,12 +2,9 @@
 <img align="center" alt="Header" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/header_aramuni.png?raw=true"/>
 </div>
 
-<h1>Olá, eu sou a Marcelly Oliveira</h1>
+##
 
-<!--hello my name is-->
-
-
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Marcelly+Oliveira!;I'm+19+years+old;I'm+from+Bahia,+Brazil;I'm+a+System+Development+Student;Be+Welcome!+:%29)
 
 ##
 
@@ -21,7 +18,6 @@
         <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rayoliveir&show_icons=true&theme=radical">
         <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayoliveir&hide_progress=true&theme=radical">
 </div>
-
 
 ##
 
@@ -48,7 +44,7 @@
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wagnersilva05/Wagnersilva05/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wagnersilva0/Wagnersilva05/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wagnersilva05/Wagnersilva05/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Wagnersilva05/Wagnersilva05/output/github-contribution-grid-snake.svg">
 </picture>
