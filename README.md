@@ -1,4 +1,4 @@
-### Olá, eu sou a Marccelly Oliveira
+### Olá, eu sou a Marcelly Oliveira
 - 🌱 Estudando: Programação Orientada a Objeto - JAVA 
 - 👯 Iniciando o projeto CAPD
 
