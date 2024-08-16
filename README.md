@@ -24,9 +24,9 @@
 <!--imagens formas de contato-->
 <div>
         <!--imagem linkedin-->
-        <a hef=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+        <a hef="https://www.linkedin.com/in/marcelly-oliveira-4a89a3301/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
         <!--imagem instagram-->
-        <a href=""><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+        <a href="https://www.instagram.com/ray_ol1?igsh=Y29qYWQ4ampybGhl&utm_source=qr"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
         <!--imagem gmail-->
         <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
         <br><br>
