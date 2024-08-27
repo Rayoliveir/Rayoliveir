@@ -5,6 +5,7 @@
 <!-- linha gradiente -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1010">
 
+<!--Hello my namee is-->
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A020F0&size=45&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Marcelly+Oliveira!;I'm+19+years+old;I'm+from+Bahia,+Brazil;I'm+a+System+Development+Student;Be+Welcome!+:%29)
 
 <!-- linha gradiente -->
@@ -35,14 +36,19 @@
 </div>
 
 <!--Linguagens e ferramentas-->
-<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/skills.gif?raw=true"/>&nbsp;Linguagens e ferramentas:
-<div style="display: inline_block"><br>
+<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/skills.gif?raw=true"/>&nbsp;Linguagens:
+<div style="display: inline_block">
         <img align="center" alt="Ray-java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
         <img align="center" alt="Ray-python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
         <img align="center" alt="Ray-C" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
         <img align="center" alt="Ray-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
         <img align="center" alt="Ray-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
         <img align="center" alt="Ray-mysql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+</div>
+
+<br><br>
+<div style="display: inline_block"><br>  
+<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/skills.gif?raw=true"/>&nbsp;Ferramentas:
         <img align="center" alt="Ray-intelij" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg">
         <img align="center" alt="Ray-pycharm" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
         <img align="center" alt="Ray-vscode" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
