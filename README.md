@@ -11,8 +11,8 @@
 <!-- linha gradiente -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1010">
 
-- 🌱 Estudando: Programação Orientada a Objeto - JAVA 
-- 👯 Iniciando o projeto CAPD
+- 🌱 Estudando: TypeScript e Framwork Angular
+- 👯 Iniciando o projeto SKILLMANAGER
 
 <!--git stats-->
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/graphic.gif?raw=true"/>GitHub Stats
